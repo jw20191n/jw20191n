@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello 👋   👩💻
+# Hello 👋   👩🏻‍💻
 
 Hi, I'm Claire! I'm a software engineer who is passionate about creating technology to elevate people and promote learning. 
 
