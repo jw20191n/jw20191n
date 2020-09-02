@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Claire! I'm a software engineer who is passionate about creating technology to elevate people and promote learning. 
 
-I am currently open to professional opportunities.  
+I am currently open to professional opportunities in software engineering / web development.  
 
 Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/claire-jiayi-wang/">LinkedIn</a> 💼
