@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 # Hello 👋   👩🏻‍💻
 
 Hi, I'm Claire! I'm a software engineer who is passionate about creating technology to elevate people and promote learning. 
-
-I am currently open to professional opportunities in software engineering / web development.  
+- 🌱 I’m currently learning Python and planning to work on a project with back-end written in Python and Django.
 
 Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/claire-jiayi-wang/">LinkedIn</a> 💼
 - Posting past projects on <a href="http://jiayiwang.co">Portfolio</a> :open_file_folder:
+- Sharing updates on <a href="https://www.linkedin.com/in/claire-jiayi-wang/">LinkedIn</a> 💼
 
 ---
 ⭐️ From [Claire](https://github.com/jw20191n)
