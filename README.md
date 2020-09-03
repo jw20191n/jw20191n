@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello 👋   👩🏻‍💻
 
-Hi, I'm Claire! I'm a software engineer who is passionate about creating technology to elevate people and promote learning. 
+Hi, I'm Claire! I'm a software engineer who is passionate about creating technology to elevate people and promote learning.\ 
 🌱 I’m currently learning Python and planning to work on a project with back-end written in Python and Django.
 
 Find me around the web 🌎:
