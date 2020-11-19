@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello 👋   👩🏻‍💻
 
 Hi, I'm Claire! I'm a software engineer who is passionate about creating technology to elevate people and promote learning.<br />
-🌱 I’m currently learning Python and planning to work on a project with back-end written in Python and Django.
+🌱 I’m currently learning Angular and TypeScrypt on Udemy and would work on my own project soon.
 
 Find me around the web 🌎:
 - Posting past projects on <a href="http://jiayiwang.co">Portfolio</a> :open_file_folder:
