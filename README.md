@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 # Hello 👋   👩🏻‍💻
 
-Hi, I'm Claire! I'm a software engineer who is passionate about creating technology to elevate people and promote learning.<br />
-🌱 I’m currently learning Angular and TypeScrypt on Udemy and would work on my own project soon.
+Hi, I'm Claire! I'm a software engineer passionate about creating technology to elevate people and promote learning.<br />
+🌱 I’m currently learning C# on Udemy and will work on my project soon.
 
 Find me around the web 🌎:
 - Posting past projects on <a href="http://jiayiwang.co">Portfolio</a> :open_file_folder:
